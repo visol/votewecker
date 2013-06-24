@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-06-24T19:34:02Z" product-name="votewecker">
+		<header/>
+		<body>
+			<trans-unit id="tx_votewecker_domain_model_voting">
+				<source>Voting</source>
+			</trans-unit>
+			<trans-unit id="tx_votewecker_domain_model_voting.voting_date">
+				<source>Voting Date</source>
+			</trans-unit>
+		</body>
+	</file>
+	<file source-language="de" datatype="plaintext" original="messages" date="2013-06-24T19:34:02Z" product-name="votewecker">
+		<header/>
+		<body>
+			<trans-unit id="tx_votewecker_domain_model_voting">
+				<source>Abstimmung</source>
+			</trans-unit>
+			<trans-unit id="tx_votewecker_domain_model_voting.voting_date">
+				<source>Abstimmungsdatum</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

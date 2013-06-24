@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-06-24T19:34:01Z" product-name="votewecker">
+		<header/>
+		<body>
+			
+			
+			<trans-unit id="tx_votewecker_domain_model_voting">
+				<source>Voting Dates</source>
+			</trans-unit>
+			<trans-unit id="tx_votewecker_domain_model_voting.voting_date">
+				<source>Voting date</source>
+			</trans-unit>
+			
+		</body>
+	</file>
+</xliff>
