@@ -1,0 +1,11 @@
+{
+	"name": "visol/votewecker",
+	"type": "typo3-cms-extension",
+	"description": "easyvote Votewecker",
+	"homepage": "https://github.com/visol/votewecker.git",
+	"license": ["GPL-2.0+"],
+	"version": "1.0.0",
+	"require": {
+		"typo3/cms-core": ">= 6.2.0, <= 7.99.99"
+	}
+}
